@@ -1,1 +1,20 @@
 *.pth
+archive/
+build/
+
+
+*.png
+*.jpg
+*.jpeg
+*.log
+*.csv
+*.h5
+*.pt
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+*.*env*
